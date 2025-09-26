@@ -42,7 +42,7 @@ We will provide a file `story.txt` with some blanks.
 1.  Create a new branch for this task.
 2.  Fill in the blanks with a sensible continuation of the story.
 3.  Merge the new branch into your current working branch.
-4.  Resolve any merge conflicts properly, ensuring both contributions are maintained.
+4.  Resolve any merge conflicts properly.
 
 ---
 
